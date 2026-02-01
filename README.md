@@ -1,16 +1,34 @@
-## Hi there 👋
+### NICE TO MEET YOU
 
-<!--
-**AntonioGalih/AntonioGalih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](./images/github-header-banner.png)
 
-Here are some ideas to get you started:
+## 🛠️ My Skill
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+
+<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+
+## 🌍 Connect With Me
+
+- 💼 Upwork: https://www.upwork.com/freelancers/~yourprofile
+- 🌐 Portfolio: https://portfolio-pi-ochre-39.vercel.app/
+- 📧 Email: antoniogalih08@gmail.com
+- 💬 WhatsApp: https://wa.me/62821-3625-5430
+
+---
+
+✨ *“Building websites that help businesses grow and ideas come to life.”*
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,laravel,django,react)](https://skillicons.dev)
