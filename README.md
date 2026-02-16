@@ -21,7 +21,7 @@
 
 ## 🌍 Connect With Me
 
-- 💼 Upwork: https://www.upwork.com/freelancers/~yourprofile
+- 💼 Upwork: [https://www.upwork.com/freelancers/antonio_galih](https://www.upwork.com/freelancers/~01062f8c27c4492c76)
 - 🌐 Portfolio: https://portfolio-pi-ochre-39.vercel.app/
 - 📧 Email: antoniogalih08@gmail.com
 - 💬 WhatsApp: https://wa.me/62821-3625-5430
@@ -31,4 +31,4 @@
 ✨ *“Building websites that help businesses grow and ideas come to life.”*
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,laravel,django,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,laravel,django,react,php)](https://skillicons.dev)
